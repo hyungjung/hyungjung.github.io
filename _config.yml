@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "AWEEKJ"
+name:               "hyunjung"
 
 twitter:
   username:         "__modo_"
@@ -27,7 +27,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:                "aweekj"
+  id:                "hyunjung"
 
 # URL
 url:                "https://hyungjung.github.io" # the base hostname & protocol for your site
